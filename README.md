@@ -4,7 +4,7 @@
 **About me:**
 - 💻 I'm web developer;
 - 👩‍🏫 I'm an english teacher;
-- 📝 I love learn languages;
+- 📝 I'm polyglot;
 - 🌎 I love travel around the world and learn about new cultures.
 
 
