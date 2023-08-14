@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lúcia Duarte</h1>
 
 **About me:**
-👋 Hi there! I'm [Your Name], and I'm thrilled to connect with fellow professionals who share a passion for technology and growth.
+👋 Hi there! I'm Lucia Duarte, and I'm thrilled to connect with fellow professionals who share a passion for technology and growth.
 
 🌍 Originally from Curitiba, Brazil, I've journeyed from a background in Portuguese and English idiom and literature to become a dedicated Front-End Developer. My path took an exciting turn when I realized the transformative potential of technology in education, inspiring me to delve into the tech world further.
 
